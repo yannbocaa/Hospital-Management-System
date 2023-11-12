@@ -1,0 +1,12 @@
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\bin\Debug\Health Care Management System.exe
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\bin\Debug\Health Care Management System.exe.config
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\obj\Debug\Health Care Management System.csproj.AssemblyReference.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\obj\Debug\Health Care Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\obj\Debug\Health_Care_Management_System.Dashboard.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\obj\Debug\Health_Care_Management_System.Form1.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\obj\Debug\Health_Care_Management_System.Properties.Resources.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\obj\Debug\Health Care Management System.csproj.GenerateResource.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\obj\Debug\Health Care Management System.csproj.CoreCompileInputs.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\obj\Debug\Health Care Management System.exe
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\obj\Debug\Health Care Management System.pdb
+C:\Users\yannb\OneDrive\Desktop\C# programs\Health Care Management System\Health Care Management System\bin\Debug\Health Care Management System.pdb
